@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=250&text=sonn.jh&fontSize=65&desc=repos.%20docs.%20memos.&descSize=20&fontAlign=75&descAlign=75&fontAlignY=28&descAlignY=44&rotate=16.4&color=C6F7E9&fontColor=424242)
+<p align="center">
+  ![header](https://capsule-render.vercel.app/api?type=slice&height=250&text=sonn.jh&fontSize=65&desc=repos.%20docs.%20memos.&descSize=20&fontAlign=75&descAlign=75&fontAlignY=28&descAlignY=44&rotate=16.4&color=C6F7E9&fontColor=424242)
+  
+  ![sonn.jh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnjh&show_icons=true&title_color=42C9A8&text_color=424242&icon_color=42C9A8&hide_border=true)
+  
+  Tech stack
+</p>
 
 ### Hi there 👋
 
