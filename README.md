@@ -7,6 +7,7 @@
   ![sonn.jh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnjh&show_icons=true&title_color=42C9A8&text_color=424242&icon_color=42C9A8&hide_border=true&count_private=true)
   
   <p><b>•••</b></p>
+  <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonnjh&count_bg=%23E1E1E1&title_bg=%237BF7D5&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
