@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![sonn.jh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnjh&show_icons=true&title_color=42C9A8&text_color=424242&icon_color=42C9A8&hide_border=true&count_private=true)
+  [![sonn.jh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnjh&show_icons=true&title_color=42C9A8&text_color=424242&icon_color=42C9A8&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
   <p><b>•••</b></p>
   <br>
