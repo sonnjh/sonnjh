@@ -4,7 +4,7 @@
 
 <p align="center"><b>•••</b></p>
 <p align="center">
-<a href="https://gitlab.com/sonnjh"><img src="https://img.shields.io/badge/GitLab-Repository-C6F7E9?style=for-the-badge&logo=Github&logoColor=C6F7E9"/></a>
+<a href="https://gitlab.com/sonnjh"><img src="https://img.shields.io/badge/GitLab-Repository-C6F7E9?style=for-the-badge&logo=GitLab&logoColor=C6F7E9"/></a>
 <a href="https://github.com/sonnjh"><img src="https://img.shields.io/badge/Notion-Portfolio-C6F7E9?style=for-the-badge&logo=notion&logoColor=C6F7E9"/></a>
 </p>
 
